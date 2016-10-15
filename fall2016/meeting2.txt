@@ -1,0 +1,31 @@
+UPE Web Dev Meeting 2
+
+Friday, 10/14/2016
+
+Meeting started at 8:10pm.
+
+In Attendance:
+
+tmochida
+baisang
+ramk
+jacluu
+raymondng
+
+Link to slides (need berkeley.edu email): https://docs.google.com/a/berkeley.edu/presentation/d/1DXnIAbkd5iF6HHPcRH9ik8yw9EbTEb1m0tL3tWfTfdo/edit?usp=sharing
+
+Went over Vagrant, hypervisor, puppet.
+
+ramk, jacluu, and raymondng teamed up and chose the Office Hours project.
+
+ramk had to leave early because he was on duty.
+
+We set up the UPE stack on candidate's machines. ramk had to leave early so he will run his stuff
+later. The setup worked perfectly for jacluu. raymondng had a lot of problems on his Windows 10
+laptop so tmochida will be helping him after the meeting set it up.
+
+We went over different models and parts of the website.
+
+Next week we will cover basic HTML, CSS, and JS.
+
+
