@@ -28,4 +28,29 @@ We went over different models and parts of the website.
 
 Next week we will cover basic HTML, CSS, and JS.
 
+===========================
 
+Sunday, 10/16/2016
+
+Meeting started at 6:12pm.
+
+In Attendance:
+
+tmochida
+baisang
+nickimp
+xiayang
+peterlee
+askaikawa
+bettychang
+aneesh
+cibi
+kimberly
+
+
+Assigned project teams:
+
+Events calendar - Peter and Kimberly
+Past list of events - Xiayang and Aneesh
+Interview slot signup - Cibi and Betty
+Replace Twitter with Merged feed - Andrew and Nick
