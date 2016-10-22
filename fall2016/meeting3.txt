@@ -1,0 +1,25 @@
+UPE Web Dev Meeting 3
+
+Friday, 10/21/2016
+
+Meeting started at 7:10pm.
+
+In Attendance:
+
+tmochida
+baisang
+isabel
+jacluu
+raymondng
+
+Link to slides (need berkeley.edu email): https://docs.google.com/a/berkeley.edu/presentation/d/1fX7JCtHXglLhmK56SHFrNXP9rjdyoHd5epliuqf0tJE/edit?usp=sharing
+
+2nd GM on 10/26.
+
+Went over HTML, CSS, JavaScript and built a simple webpage demonstrating the 3 technologies.
+
+raymondng, jacluu presented a design for the Office Hours feature.
+
+isabel joined raymondng, ramk, and jacluu for the Office Hours project.
+
+For next week turn the design into HTML.
