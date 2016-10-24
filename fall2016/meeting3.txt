@@ -23,3 +23,23 @@ raymondng, jacluu presented a design for the Office Hours feature.
 isabel joined raymondng, ramk, and jacluu for the Office Hours project.
 
 For next week turn the design into HTML.
+
+===========================
+
+Sunday, 10/23/2016
+
+Meeting started at 6:10pm.
+
+In Attendance:
+
+tmochida
+baisang
+nickimp
+peterlee
+askaikawa
+aneesh
+cibi
+kimberly
+andrealiu
+
+Each team presented feature design.
