@@ -1,0 +1,42 @@
+UPE Web Dev Meeting 4
+
+Friday, 10/28/2016
+
+Meeting started at 7:18pm.
+
+In Attendance:
+
+tmochida
+baisang
+isabel
+jacluu
+ramk
+raymondng
+
+Link to slides (need berkeley.edu email): https://docs.google.com/a/berkeley.edu/presentation/d/1uKkxkgxmqxSYHUnaPshxhysOWPPH7XOnVl2ZFFuWpPQ/
+
+tmochida went over relational databases and SQL.
+
+baisang covered how to use the Django shell and access model data. Also went
+over ORM
+
+For next week look at models and present what needs to be added/modified.
+
+===========================
+
+Sunday, 10/30/2016
+
+Meeting started at 6:10pm.
+
+In Attendance:
+
+tmochida
+baisang
+askaikawa
+bettychang
+cibi
+kimberly
+
+Went over same content as on Friday.
+
+Met with each group on feature HTML progress.
