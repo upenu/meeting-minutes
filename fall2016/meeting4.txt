@@ -40,3 +40,5 @@ kimberly
 Went over same content as on Friday.
 
 Met with each group on feature HTML progress.
+
+Project Specifications: https://docs.google.com/a/berkeley.edu/document/d/165O8N4XUN2a0TJrF3DeYX5RkZ6mI9Tu-3T_TV02BHOM/edit?usp=sharing
