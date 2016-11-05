@@ -1,0 +1,21 @@
+UPE Web Dev Meeting 5
+
+Friday, 11/04/2016
+
+Meeting started at 7:10pm.
+
+In Attendance:
+
+tmochida
+baisang
+isabel
+jacluu
+ramk
+
+Link to slides (need berkeley.edu email): https://docs.google.com/a/berkeley.edu/presentation/d/1VLEHAOg68ZMZO-Njog0nCc8RVM195YVCCaYFevGEDrA/edit?usp=sharing
+
+baisang went over git workflow on open source projects.
+
+Did a demo on forking a repository and creating a pull request on GitHub.
+
+tmochida showed changes necessary to add a simple feature to the website.
