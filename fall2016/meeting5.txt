@@ -19,3 +19,28 @@ baisang went over git workflow on open source projects.
 Did a demo on forking a repository and creating a pull request on GitHub.
 
 tmochida showed changes necessary to add a simple feature to the website.
+
+===========================
+
+Sunday, 11/06/2016
+
+Meeting started at 6:10pm.
+
+In Attendance:
+
+tmochida
+baisang
+aneesh
+askaikawa
+nickimp
+bettychang
+raymondng
+cibi
+kimberly
+xiayang
+
+Our first committee social is Friday 11/11.
+
+Same slides as from Friday.
+
+Met with each group and talked about project progress.
